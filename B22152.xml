@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die LunÆ, 18 Septembris, Anno XIX Caroli Regis. An ordinance of the Lords and Commons assembled in Parliament. For the reliefe of the distressed clergy of Ireland..</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22152</idno><idno type="EEBO-CITATION">99882462</idno>
+  <idno type="VID">193858</idno>
+  <idno type="EEBO-PROQUEST">2240874429</idno>
+  
+            <idno type="STC">Wing E2028</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[56]</idno>
+            <idno type="PROQUEST">ocm99882462</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882462e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193858)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die LunÆ, 18 Septembris, Anno XIX Caroli Regis. An ordinance of the Lords and Commons assembled in Parliament. For the reliefe of the distressed clergy of Ireland..</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 19. London Printed for John Wright in the Old-baily,,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial; Steele notation: King-  That  as.</note>
+                  <note>Imperfect: creased, stained, and torn, with loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Public welfare --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Clergy --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Poor --  Legal status, laws, etc. --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649</term>
+               <term type="geographic_name"> --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:193858:1"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die</hi> Lunae, 18 <hi>Septembris, Anno</hi> XIX CAROLI REGIS.</date>
+               </dateline>
+            </opener>
+            <head>AN ORDINANCE OF THE LORDS AND COMMONS Assembled in PARLIAMENT.</head>
+            <head type="sub">For the Reliefe of the Distressed CLERGY of IRELAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it appeareth by an humble Petition this day Read, That the distressed Clergy of the King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> were at the beginning of the Rebellion there despoyled of their Personall Estates, and have beene ever since deprived of their respective Livings by the barbarous Rebells, and are now ready to perish with their Wives and children, for want of present lively-hood: The Lords and Commons now Assembled in Parliament, having taken the same into their charitable conside<g ref="char:EOLhyphen"/>rations, doe thinke fit that there shall be a Collection made in and throughout the Cities of <hi>London</hi> and <hi>VVestminster,</hi> and the severall Counties of <hi>Middlesex, Essex, Kent, Surrey,</hi> and <hi>Hertford,</hi> for their Reliefe.</p>
+            <p>Be it therefore Ordained by the Lords and Commons in this present Parliament Assembled, That all and every the Church-Wardens and Over-seers of the poore, within all and every the severall places and Parishes of the Cities of <hi>London</hi> and <hi>Westminster,</hi> and Burrough of <hi>Southwarke,</hi> and of the severall Counties of <hi>Middlesex, Essex, Kent, Surrey,</hi> and <hi>Hertford</hi> aforesaid, shall &amp; may forthwith, and before the twenty sixt day of <hi>November</hi> next, within their respective Parishes and places aforesaid, aske, take, receive, and gather the severall gifts and charitable benevolences, of all and every person and persons, to and for the reliefe of the said distressed Clergy and their Wives and Children, And the summes so received and gathered in each severall place or Parish, which shall be within the distance of ten miles to the City of <hi>London,</hi> to set downe in a Note in writing, in words at large, and not in figures, the same to be subscribed by the Minister, Parson, Vicar, or Curate of the said place or Parish, and by the said Church-Wardens or one of them, and to be payd and delivered unto Doctor <hi>William Gouge,</hi> Minister of <hi>Black-Fryers London,</hi> Doctor <hi>Ioshua H<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le,</hi> M<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ter of <hi>Stepney;</hi> D<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Minister of <hi>Battersey,</hi> M. <hi>Joseph Carrill,</hi> Preacher of <hi>Lincolns-Inne;</hi> M. <hi>William Brice,</hi> Minister of <hi>Mild<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> M. <hi>Cheynell,</hi> M. <hi>Wilkin<g ref="char:EOLhyphen"/>son junior,</hi> or any three of them, who by this Ordinance are appoynted Receivers and Treasurers of the same, or to such deputy Receiver as they shall appoynt, at Doctor <hi>Gouges</hi> house in <hi>Black-Fryers</hi> aforesaid, at or before the thirtieth day of <hi>November</hi> aforesaid; Which said Receivers, or one of them, or their deputy Receiver, are to give severall Accquittan<g ref="char:EOLhyphen"/>ces for the same: And the summes so received and gathered in each severall place and Parish, which shall be above tenne miles distant from the City of <hi>London,</hi> to be kept in the hands of the Church-wardens, till they be demanded of them by a person as shall be designed by the aforesaid Ministers (and that designation made knowne under the hands of the Knights and Burgesses which serve for the said Counties, or any seven of them) from whom they shall receive Accquit<g ref="char:EOLhyphen"/>tances for their discharge.</p>
+            <p>Be it further Ordained by the Authoritie aforesaid, That the said Receivers, or any two of them, immediately after the Receit of the severall summes of Money from the Church-Wardens of the respective places or Parishes within the severall Cities and Counties aforesaid, shall call to their assistance <hi>William Newman</hi> and <hi>Griffith Perse,</hi> Ministers and Agents for the said distressed Clergy, or one of them, who are to advise concerning the sending over the said Moneys (the necessary Charges of the said Agents, and of such others as shall be necessarily imployed in the execution of this Ordi<g ref="char:EOLhyphen"/>nance being first discharged) unto faithfull and trustie Persons in <hi>Dublin,</hi> and other places of <hi>Ireland,</hi> to be by them dis<g ref="char:EOLhyphen"/>posed of to such of the Clergy there as are in distresse, according to their merit, and proportionable to the Exigencies of them and their Families.</p>
+            <p>Be it further Ordained by the Authoritie aforesaid, That the Ministers, Parsons, Vicars and Curates of all and every the Cities of <hi>London</hi> and <hi>Westminster,</hi> and Counties aforesaid, shall publish this Ordinance in their severall Pa<g ref="char:EOLhyphen"/>rish Churches and Chappels respectively, upon any Lords day after the same shall come to their hands, within the afore<g ref="char:EOLhyphen"/>said time limitted, and shall use their best endeavours to move and perswade their Parishioners liberally to contribute to so good a Worke. And that if any Minister, Parson, Vicar, Curate, Church-Warden, or Over-seer of the Poore within the severall places or Parishes of the Cities, Burrough, and Counties aforesaid, or any of them, shall neglect his or their dutie in the due execution of the premisses, That he or they shall be accomptable in Parliament for such his or their neglect. Provided alwayes, That this Ordinance shall not be put in execution touching any such Collections as aforesaid, longer then or from or after the thirtieth day of <hi>November</hi> next.</p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Die Lunae, 18 Septembris, 1643.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Lords and Commons Assembled in Parliament, that this Ordinance be forthwith Printed and published.</p>
+               <closer>
+                  <signed>Joh. Browne Cleri. Parliament.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Septemb. 19. London Printed for John Wright in the Old-bailey, 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
